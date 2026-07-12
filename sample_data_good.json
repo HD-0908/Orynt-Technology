@@ -1,0 +1,1000 @@
+{
+  "meta": {
+    "source": "Orynt Open Banking Simulator",
+    "standard": "Simulated SAMA Open Banking Framework",
+    "generated_at": "2026-07-09 14:37:09",
+    "note": "بيانات محاكاة لأغراض العرض التجريبي - قابلة للاستبدال بـ API بنكي حقيقي دون تعديل باقي النظام"
+  },
+  "account_info": {
+    "customer_name": "سارة العتيبي",
+    "bank_name": "البنك التجريبي (Simulated Bank)",
+    "account_number_masked": "SA** ** ** 1583",
+    "account_type": "حساب جاري",
+    "currency": "SAR",
+    "consent_status": "approved",
+    "consent_scope": [
+      "balance",
+      "transactions_6_months",
+      "account_info"
+    ]
+  },
+  "balance": {
+    "current_balance": 46362.46,
+    "available_balance": 44044.34,
+    "as_of": "2026-07-09"
+  },
+  "transactions": [
+    {
+      "date": "2026-07-25",
+      "description": "راتب - تحويل جهة العمل",
+      "category": "راتب",
+      "amount": 14000,
+      "type": "credit"
+    },
+    {
+      "date": "2026-07-09",
+      "description": "وقود ومواصلات",
+      "category": "وقود ومواصلات",
+      "amount": 250.22,
+      "type": "debit"
+    },
+    {
+      "date": "2026-07-09",
+      "description": "تسوق أونلاين",
+      "category": "تسوق أونلاين",
+      "amount": 569.87,
+      "type": "debit"
+    },
+    {
+      "date": "2026-07-05",
+      "description": "سوبرماركت",
+      "category": "سوبرماركت",
+      "amount": 429.35,
+      "type": "debit"
+    },
+    {
+      "date": "2026-07-05",
+      "description": "وقود ومواصلات",
+      "category": "وقود ومواصلات",
+      "amount": 124.95,
+      "type": "debit"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "مطاعم وكافيهات",
+      "category": "مطاعم وكافيهات",
+      "amount": 171.17,
+      "type": "debit"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "سحب نقدي ATM",
+      "category": "سحب نقدي ATM",
+      "amount": 1159.43,
+      "type": "debit"
+    },
+    {
+      "date": "2026-07-03",
+      "description": "فواتير كهرباء وماء",
+      "category": "فواتير كهرباء وماء",
+      "amount": 432.98,
+      "type": "debit"
+    },
+    {
+      "date": "2026-07-02",
+      "description": "إيجار سكن",
+      "category": "إيجار سكن",
+      "amount": 2566.77,
+      "type": "debit"
+    },
+    {
+      "date": "2026-07-02",
+      "description": "وقود ومواصلات",
+      "category": "وقود ومواصلات",
+      "amount": 332.08,
+      "type": "debit"
+    },
+    {
+      "date": "2026-07-01",
+      "description": "اتصالات وإنترنت",
+      "category": "اتصالات وإنترنت",
+      "amount": 188.54,
+      "type": "debit"
+    },
+    {
+      "date": "2026-06-28",
+      "description": "سحب نقدي ATM",
+      "category": "سحب نقدي ATM",
+      "amount": 725.06,
+      "type": "debit"
+    },
+    {
+      "date": "2026-06-26",
+      "description": "مطاعم وكافيهات",
+      "category": "مطاعم وكافيهات",
+      "amount": 32.13,
+      "type": "debit"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "سوبرماركت",
+      "category": "سوبرماركت",
+      "amount": 94.91,
+      "type": "debit"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "مطاعم وكافيهات",
+      "category": "مطاعم وكافيهات",
+      "amount": 213.33,
+      "type": "debit"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "راتب - تحويل جهة العمل",
+      "category": "راتب",
+      "amount": 14000,
+      "type": "credit"
+    },
+    {
+      "date": "2026-06-24",
+      "description": "سوبرماركت",
+      "category": "سوبرماركت",
+      "amount": 92.46,
+      "type": "debit"
+    },
+    {
+      "date": "2026-06-23",
+      "description": "سوبرماركت",
+      "category": "سوبرماركت",
+      "amount": 530.38,
+      "type": "debit"
+    },
+    {
+      "date": "2026-06-15",
+      "description": "سوبرماركت",
+      "category": "سوبرماركت",
+      "amount": 72.65,
+      "type": "debit"
+    },
+    {
+      "date": "2026-06-14",
+      "description": "تسوق أونلاين",
+      "category": "تسوق أونلاين",
+      "amount": 1146.04,
+      "type": "debit"
+    },
+    {
+      "date": "2026-06-13",
+      "description": "مطاعم وكافيهات",
+      "category": "مطاعم وكافيهات",
+      "amount": 178.26,
+      "type": "debit"
+    },
+    {
+      "date": "2026-06-13",
+      "description": "سوبرماركت",
+      "category": "سوبرماركت",
+      "amount": 438.22,
+      "type": "debit"
+    },
+    {
+      "date": "2026-06-12",
+      "description": "سوبرماركت",
+      "category": "سوبرماركت",
+      "amount": 127.63,
+      "type": "debit"
+    },
+    {
+      "date": "2026-06-12",
+      "description": "سوبرماركت",
+      "category": "سوبرماركت",
+      "amount": 354.94,
+      "type": "debit"
+    },
+    {
+      "date": "2026-06-09",
+      "description": "وقود ومواصلات",
+      "category": "وقود ومواصلات",
+      "amount": 239.69,
+      "type": "debit"
+    },
+    {
+      "date": "2026-06-09",
+      "description": "تسوق أونلاين",
+      "category": "تسوق أونلاين",
+      "amount": 1109.01,
+      "type": "debit"
+    },
+    {
+      "date": "2026-06-08",
+      "description": "سوبرماركت",
+      "category": "سوبرماركت",
+      "amount": 255.53,
+      "type": "debit"
+    },
+    {
+      "date": "2026-06-04",
+      "description": "وقود ومواصلات",
+      "category": "وقود ومواصلات",
+      "amount": 307.65,
+      "type": "debit"
+    },
+    {
+      "date": "2026-06-03",
+      "description": "اتصالات وإنترنت",
+      "category": "اتصالات وإنترنت",
+      "amount": 242.27,
+      "type": "debit"
+    },
+    {
+      "date": "2026-06-02",
+      "description": "إيجار سكن",
+      "category": "إيجار سكن",
+      "amount": 3819.65,
+      "type": "debit"
+    },
+    {
+      "date": "2026-06-02",
+      "description": "مطاعم وكافيهات",
+      "category": "مطاعم وكافيهات",
+      "amount": 101.26,
+      "type": "debit"
+    },
+    {
+      "date": "2026-06-02",
+      "description": "مطاعم وكافيهات",
+      "category": "مطاعم وكافيهات",
+      "amount": 152.96,
+      "type": "debit"
+    },
+    {
+      "date": "2026-06-01",
+      "description": "فواتير كهرباء وماء",
+      "category": "فواتير كهرباء وماء",
+      "amount": 474.83,
+      "type": "debit"
+    },
+    {
+      "date": "2026-06-01",
+      "description": "مطاعم وكافيهات",
+      "category": "مطاعم وكافيهات",
+      "amount": 237.71,
+      "type": "debit"
+    },
+    {
+      "date": "2026-05-31",
+      "description": "سحب نقدي ATM",
+      "category": "سحب نقدي ATM",
+      "amount": 1645.8,
+      "type": "debit"
+    },
+    {
+      "date": "2026-05-25",
+      "description": "مطاعم وكافيهات",
+      "category": "مطاعم وكافيهات",
+      "amount": 67.88,
+      "type": "debit"
+    },
+    {
+      "date": "2026-05-25",
+      "description": "راتب - تحويل جهة العمل",
+      "category": "راتب",
+      "amount": 14000,
+      "type": "credit"
+    },
+    {
+      "date": "2026-05-23",
+      "description": "وقود ومواصلات",
+      "category": "وقود ومواصلات",
+      "amount": 206.65,
+      "type": "debit"
+    },
+    {
+      "date": "2026-05-23",
+      "description": "سحب نقدي ATM",
+      "category": "سحب نقدي ATM",
+      "amount": 1468.29,
+      "type": "debit"
+    },
+    {
+      "date": "2026-05-21",
+      "description": "مطاعم وكافيهات",
+      "category": "مطاعم وكافيهات",
+      "amount": 135.43,
+      "type": "debit"
+    },
+    {
+      "date": "2026-05-21",
+      "description": "تحويل من فرد",
+      "category": "تحويل من فرد",
+      "amount": 3213.43,
+      "type": "credit"
+    },
+    {
+      "date": "2026-05-20",
+      "description": "مطاعم وكافيهات",
+      "category": "مطاعم وكافيهات",
+      "amount": 36.99,
+      "type": "debit"
+    },
+    {
+      "date": "2026-05-18",
+      "description": "وقود ومواصلات",
+      "category": "وقود ومواصلات",
+      "amount": 207.2,
+      "type": "debit"
+    },
+    {
+      "date": "2026-05-16",
+      "description": "مطاعم وكافيهات",
+      "category": "مطاعم وكافيهات",
+      "amount": 52.22,
+      "type": "debit"
+    },
+    {
+      "date": "2026-05-15",
+      "description": "سوبرماركت",
+      "category": "سوبرماركت",
+      "amount": 416.09,
+      "type": "debit"
+    },
+    {
+      "date": "2026-05-13",
+      "description": "مطاعم وكافيهات",
+      "category": "مطاعم وكافيهات",
+      "amount": 216.5,
+      "type": "debit"
+    },
+    {
+      "date": "2026-05-13",
+      "description": "مطاعم وكافيهات",
+      "category": "مطاعم وكافيهات",
+      "amount": 243.31,
+      "type": "debit"
+    },
+    {
+      "date": "2026-05-07",
+      "description": "وقود ومواصلات",
+      "category": "وقود ومواصلات",
+      "amount": 265.43,
+      "type": "debit"
+    },
+    {
+      "date": "2026-05-06",
+      "description": "سوبرماركت",
+      "category": "سوبرماركت",
+      "amount": 304.43,
+      "type": "debit"
+    },
+    {
+      "date": "2026-05-05",
+      "description": "مطاعم وكافيهات",
+      "category": "مطاعم وكافيهات",
+      "amount": 249.71,
+      "type": "debit"
+    },
+    {
+      "date": "2026-05-04",
+      "description": "فواتير كهرباء وماء",
+      "category": "فواتير كهرباء وماء",
+      "amount": 769.56,
+      "type": "debit"
+    },
+    {
+      "date": "2026-05-04",
+      "description": "سوبرماركت",
+      "category": "سوبرماركت",
+      "amount": 205.34,
+      "type": "debit"
+    },
+    {
+      "date": "2026-05-03",
+      "description": "إيجار سكن",
+      "category": "إيجار سكن",
+      "amount": 2818.29,
+      "type": "debit"
+    },
+    {
+      "date": "2026-05-03",
+      "description": "اتصالات وإنترنت",
+      "category": "اتصالات وإنترنت",
+      "amount": 369.79,
+      "type": "debit"
+    },
+    {
+      "date": "2026-05-03",
+      "description": "مطاعم وكافيهات",
+      "category": "مطاعم وكافيهات",
+      "amount": 90.78,
+      "type": "debit"
+    },
+    {
+      "date": "2026-05-03",
+      "description": "تحويل من فرد",
+      "category": "تحويل من فرد",
+      "amount": 642.1,
+      "type": "credit"
+    },
+    {
+      "date": "2026-05-01",
+      "description": "مطاعم وكافيهات",
+      "category": "مطاعم وكافيهات",
+      "amount": 162.93,
+      "type": "debit"
+    },
+    {
+      "date": "2026-04-30",
+      "description": "سوبرماركت",
+      "category": "سوبرماركت",
+      "amount": 363.4,
+      "type": "debit"
+    },
+    {
+      "date": "2026-04-29",
+      "description": "وقود ومواصلات",
+      "category": "وقود ومواصلات",
+      "amount": 110.86,
+      "type": "debit"
+    },
+    {
+      "date": "2026-04-29",
+      "description": "سوبرماركت",
+      "category": "سوبرماركت",
+      "amount": 399.26,
+      "type": "debit"
+    },
+    {
+      "date": "2026-04-28",
+      "description": "سوبرماركت",
+      "category": "سوبرماركت",
+      "amount": 198.1,
+      "type": "debit"
+    },
+    {
+      "date": "2026-04-25",
+      "description": "راتب - تحويل جهة العمل",
+      "category": "راتب",
+      "amount": 14000,
+      "type": "credit"
+    },
+    {
+      "date": "2026-04-24",
+      "description": "مطاعم وكافيهات",
+      "category": "مطاعم وكافيهات",
+      "amount": 142.76,
+      "type": "debit"
+    },
+    {
+      "date": "2026-04-22",
+      "description": "وقود ومواصلات",
+      "category": "وقود ومواصلات",
+      "amount": 285.6,
+      "type": "debit"
+    },
+    {
+      "date": "2026-04-22",
+      "description": "سحب نقدي ATM",
+      "category": "سحب نقدي ATM",
+      "amount": 1206.85,
+      "type": "debit"
+    },
+    {
+      "date": "2026-04-21",
+      "description": "سوبرماركت",
+      "category": "سوبرماركت",
+      "amount": 344.2,
+      "type": "debit"
+    },
+    {
+      "date": "2026-04-19",
+      "description": "تحويل من فرد",
+      "category": "تحويل من فرد",
+      "amount": 4767.54,
+      "type": "credit"
+    },
+    {
+      "date": "2026-04-16",
+      "description": "تحويل من فرد",
+      "category": "تحويل من فرد",
+      "amount": 264.82,
+      "type": "credit"
+    },
+    {
+      "date": "2026-04-15",
+      "description": "سوبرماركت",
+      "category": "سوبرماركت",
+      "amount": 261.2,
+      "type": "debit"
+    },
+    {
+      "date": "2026-04-12",
+      "description": "وقود ومواصلات",
+      "category": "وقود ومواصلات",
+      "amount": 331.48,
+      "type": "debit"
+    },
+    {
+      "date": "2026-04-10",
+      "description": "تحويل من فرد",
+      "category": "تحويل من فرد",
+      "amount": 4931.6,
+      "type": "credit"
+    },
+    {
+      "date": "2026-04-09",
+      "description": "مطاعم وكافيهات",
+      "category": "مطاعم وكافيهات",
+      "amount": 64.82,
+      "type": "debit"
+    },
+    {
+      "date": "2026-04-09",
+      "description": "سوبرماركت",
+      "category": "سوبرماركت",
+      "amount": 461.67,
+      "type": "debit"
+    },
+    {
+      "date": "2026-04-09",
+      "description": "مطاعم وكافيهات",
+      "category": "مطاعم وكافيهات",
+      "amount": 202.08,
+      "type": "debit"
+    },
+    {
+      "date": "2026-04-08",
+      "description": "مطاعم وكافيهات",
+      "category": "مطاعم وكافيهات",
+      "amount": 141.27,
+      "type": "debit"
+    },
+    {
+      "date": "2026-04-08",
+      "description": "سحب نقدي ATM",
+      "category": "سحب نقدي ATM",
+      "amount": 1722.02,
+      "type": "debit"
+    },
+    {
+      "date": "2026-04-06",
+      "description": "وقود ومواصلات",
+      "category": "وقود ومواصلات",
+      "amount": 200.07,
+      "type": "debit"
+    },
+    {
+      "date": "2026-04-05",
+      "description": "اتصالات وإنترنت",
+      "category": "اتصالات وإنترنت",
+      "amount": 112.3,
+      "type": "debit"
+    },
+    {
+      "date": "2026-04-04",
+      "description": "سوبرماركت",
+      "category": "سوبرماركت",
+      "amount": 257.37,
+      "type": "debit"
+    },
+    {
+      "date": "2026-04-04",
+      "description": "مطاعم وكافيهات",
+      "category": "مطاعم وكافيهات",
+      "amount": 214.46,
+      "type": "debit"
+    },
+    {
+      "date": "2026-04-02",
+      "description": "إيجار سكن",
+      "category": "إيجار سكن",
+      "amount": 5930.05,
+      "type": "debit"
+    },
+    {
+      "date": "2026-04-01",
+      "description": "فواتير كهرباء وماء",
+      "category": "فواتير كهرباء وماء",
+      "amount": 297.41,
+      "type": "debit"
+    },
+    {
+      "date": "2026-03-31",
+      "description": "سحب نقدي ATM",
+      "category": "سحب نقدي ATM",
+      "amount": 388.85,
+      "type": "debit"
+    },
+    {
+      "date": "2026-03-30",
+      "description": "وقود ومواصلات",
+      "category": "وقود ومواصلات",
+      "amount": 262.89,
+      "type": "debit"
+    },
+    {
+      "date": "2026-03-30",
+      "description": "سوبرماركت",
+      "category": "سوبرماركت",
+      "amount": 120.18,
+      "type": "debit"
+    },
+    {
+      "date": "2026-03-30",
+      "description": "سحب نقدي ATM",
+      "category": "سحب نقدي ATM",
+      "amount": 1035.04,
+      "type": "debit"
+    },
+    {
+      "date": "2026-03-27",
+      "description": "وقود ومواصلات",
+      "category": "وقود ومواصلات",
+      "amount": 267.93,
+      "type": "debit"
+    },
+    {
+      "date": "2026-03-25",
+      "description": "راتب - تحويل جهة العمل",
+      "category": "راتب",
+      "amount": 14000,
+      "type": "credit"
+    },
+    {
+      "date": "2026-03-21",
+      "description": "سوبرماركت",
+      "category": "سوبرماركت",
+      "amount": 587.64,
+      "type": "debit"
+    },
+    {
+      "date": "2026-03-19",
+      "description": "سوبرماركت",
+      "category": "سوبرماركت",
+      "amount": 168.16,
+      "type": "debit"
+    },
+    {
+      "date": "2026-03-19",
+      "description": "سوبرماركت",
+      "category": "سوبرماركت",
+      "amount": 235.79,
+      "type": "debit"
+    },
+    {
+      "date": "2026-03-16",
+      "description": "وقود ومواصلات",
+      "category": "وقود ومواصلات",
+      "amount": 331.54,
+      "type": "debit"
+    },
+    {
+      "date": "2026-03-14",
+      "description": "سوبرماركت",
+      "category": "سوبرماركت",
+      "amount": 365.13,
+      "type": "debit"
+    },
+    {
+      "date": "2026-03-09",
+      "description": "مطاعم وكافيهات",
+      "category": "مطاعم وكافيهات",
+      "amount": 156.59,
+      "type": "debit"
+    },
+    {
+      "date": "2026-03-08",
+      "description": "وقود ومواصلات",
+      "category": "وقود ومواصلات",
+      "amount": 322.74,
+      "type": "debit"
+    },
+    {
+      "date": "2026-03-08",
+      "description": "وقود ومواصلات",
+      "category": "وقود ومواصلات",
+      "amount": 289.25,
+      "type": "debit"
+    },
+    {
+      "date": "2026-03-07",
+      "description": "تسوق أونلاين",
+      "category": "تسوق أونلاين",
+      "amount": 247.68,
+      "type": "debit"
+    },
+    {
+      "date": "2026-03-07",
+      "description": "تحويل من فرد",
+      "category": "تحويل من فرد",
+      "amount": 4065.43,
+      "type": "credit"
+    },
+    {
+      "date": "2026-03-04",
+      "description": "سوبرماركت",
+      "category": "سوبرماركت",
+      "amount": 591.21,
+      "type": "debit"
+    },
+    {
+      "date": "2026-03-04",
+      "description": "وقود ومواصلات",
+      "category": "وقود ومواصلات",
+      "amount": 325.56,
+      "type": "debit"
+    },
+    {
+      "date": "2026-03-03",
+      "description": "إيجار سكن",
+      "category": "إيجار سكن",
+      "amount": 5375.02,
+      "type": "debit"
+    },
+    {
+      "date": "2026-03-03",
+      "description": "فواتير كهرباء وماء",
+      "category": "فواتير كهرباء وماء",
+      "amount": 678.23,
+      "type": "debit"
+    },
+    {
+      "date": "2026-03-03",
+      "description": "وقود ومواصلات",
+      "category": "وقود ومواصلات",
+      "amount": 227.55,
+      "type": "debit"
+    },
+    {
+      "date": "2026-03-01",
+      "description": "اتصالات وإنترنت",
+      "category": "اتصالات وإنترنت",
+      "amount": 279.56,
+      "type": "debit"
+    },
+    {
+      "date": "2026-03-01",
+      "description": "تحويل من فرد",
+      "category": "تحويل من فرد",
+      "amount": 3571.17,
+      "type": "credit"
+    },
+    {
+      "date": "2026-02-28",
+      "description": "تسوق أونلاين",
+      "category": "تسوق أونلاين",
+      "amount": 199.56,
+      "type": "debit"
+    },
+    {
+      "date": "2026-02-27",
+      "description": "مطاعم وكافيهات",
+      "category": "مطاعم وكافيهات",
+      "amount": 140.09,
+      "type": "debit"
+    },
+    {
+      "date": "2026-02-25",
+      "description": "راتب - تحويل جهة العمل",
+      "category": "راتب",
+      "amount": 14000,
+      "type": "credit"
+    },
+    {
+      "date": "2026-02-23",
+      "description": "مطاعم وكافيهات",
+      "category": "مطاعم وكافيهات",
+      "amount": 62.11,
+      "type": "debit"
+    },
+    {
+      "date": "2026-02-21",
+      "description": "مطاعم وكافيهات",
+      "category": "مطاعم وكافيهات",
+      "amount": 73.69,
+      "type": "debit"
+    },
+    {
+      "date": "2026-02-18",
+      "description": "مطاعم وكافيهات",
+      "category": "مطاعم وكافيهات",
+      "amount": 125.44,
+      "type": "debit"
+    },
+    {
+      "date": "2026-02-18",
+      "description": "وقود ومواصلات",
+      "category": "وقود ومواصلات",
+      "amount": 174.93,
+      "type": "debit"
+    },
+    {
+      "date": "2026-02-17",
+      "description": "سوبرماركت",
+      "category": "سوبرماركت",
+      "amount": 491.63,
+      "type": "debit"
+    },
+    {
+      "date": "2026-02-14",
+      "description": "وقود ومواصلات",
+      "category": "وقود ومواصلات",
+      "amount": 129.76,
+      "type": "debit"
+    },
+    {
+      "date": "2026-02-13",
+      "description": "سوبرماركت",
+      "category": "سوبرماركت",
+      "amount": 502.52,
+      "type": "debit"
+    },
+    {
+      "date": "2026-02-12",
+      "description": "وقود ومواصلات",
+      "category": "وقود ومواصلات",
+      "amount": 139.78,
+      "type": "debit"
+    },
+    {
+      "date": "2026-02-09",
+      "description": "وقود ومواصلات",
+      "category": "وقود ومواصلات",
+      "amount": 101.22,
+      "type": "debit"
+    },
+    {
+      "date": "2026-02-09",
+      "description": "تحويل من فرد",
+      "category": "تحويل من فرد",
+      "amount": 1562.23,
+      "type": "credit"
+    },
+    {
+      "date": "2026-02-07",
+      "description": "وقود ومواصلات",
+      "category": "وقود ومواصلات",
+      "amount": 121.84,
+      "type": "debit"
+    },
+    {
+      "date": "2026-02-07",
+      "description": "وقود ومواصلات",
+      "category": "وقود ومواصلات",
+      "amount": 260.92,
+      "type": "debit"
+    },
+    {
+      "date": "2026-02-07",
+      "description": "وقود ومواصلات",
+      "category": "وقود ومواصلات",
+      "amount": 129.13,
+      "type": "debit"
+    },
+    {
+      "date": "2026-02-04",
+      "description": "فواتير كهرباء وماء",
+      "category": "فواتير كهرباء وماء",
+      "amount": 526.53,
+      "type": "debit"
+    },
+    {
+      "date": "2026-02-04",
+      "description": "وقود ومواصلات",
+      "category": "وقود ومواصلات",
+      "amount": 150.32,
+      "type": "debit"
+    },
+    {
+      "date": "2026-02-03",
+      "description": "اتصالات وإنترنت",
+      "category": "اتصالات وإنترنت",
+      "amount": 367.02,
+      "type": "debit"
+    },
+    {
+      "date": "2026-02-03",
+      "description": "سوبرماركت",
+      "category": "سوبرماركت",
+      "amount": 375.59,
+      "type": "debit"
+    },
+    {
+      "date": "2026-02-03",
+      "description": "تسوق أونلاين",
+      "category": "تسوق أونلاين",
+      "amount": 712.49,
+      "type": "debit"
+    },
+    {
+      "date": "2026-02-01",
+      "description": "إيجار سكن",
+      "category": "إيجار سكن",
+      "amount": 4462.78,
+      "type": "debit"
+    },
+    {
+      "date": "2026-02-01",
+      "description": "سوبرماركت",
+      "category": "سوبرماركت",
+      "amount": 495.52,
+      "type": "debit"
+    },
+    {
+      "date": "2026-01-30",
+      "description": "تسوق أونلاين",
+      "category": "تسوق أونلاين",
+      "amount": 1441.25,
+      "type": "debit"
+    },
+    {
+      "date": "2026-01-28",
+      "description": "وقود ومواصلات",
+      "category": "وقود ومواصلات",
+      "amount": 283.57,
+      "type": "debit"
+    },
+    {
+      "date": "2026-01-26",
+      "description": "مطاعم وكافيهات",
+      "category": "مطاعم وكافيهات",
+      "amount": 219.96,
+      "type": "debit"
+    },
+    {
+      "date": "2026-01-25",
+      "description": "مطاعم وكافيهات",
+      "category": "مطاعم وكافيهات",
+      "amount": 226.71,
+      "type": "debit"
+    },
+    {
+      "date": "2026-01-22",
+      "description": "تسوق أونلاين",
+      "category": "تسوق أونلاين",
+      "amount": 359.89,
+      "type": "debit"
+    },
+    {
+      "date": "2026-01-19",
+      "description": "وقود ومواصلات",
+      "category": "وقود ومواصلات",
+      "amount": 135.83,
+      "type": "debit"
+    },
+    {
+      "date": "2026-01-17",
+      "description": "وقود ومواصلات",
+      "category": "وقود ومواصلات",
+      "amount": 275.62,
+      "type": "debit"
+    },
+    {
+      "date": "2026-01-17",
+      "description": "مطاعم وكافيهات",
+      "category": "مطاعم وكافيهات",
+      "amount": 202.49,
+      "type": "debit"
+    },
+    {
+      "date": "2026-01-16",
+      "description": "مطاعم وكافيهات",
+      "category": "مطاعم وكافيهات",
+      "amount": 59.21,
+      "type": "debit"
+    },
+    {
+      "date": "2026-01-12",
+      "description": "مطاعم وكافيهات",
+      "category": "مطاعم وكافيهات",
+      "amount": 100.14,
+      "type": "debit"
+    }
+  ],
+  "summary": {
+    "total_transactions": 138,
+    "total_credit": 107018.32,
+    "total_debit": 65655.86,
+    "period_months": 6
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "customer_name": "خالد الشمري",
+  "current_risk_score": 81.1,
+  "default_prediction": {
+    "default_probability_pct": 92.3,
+    "category": "احتمالية تعثر مرتفعة",
+    "color_code": "أحمر"
+  },
+  "improvement_suggestions": [
+    {
+      "weak_point": "نسبة الالتزامات إلى الدخل",
+      "current_value": "109.82%",
+      "why_it_matters": "الالتزامات الشهرية تلتهم 109.82% من الدخل، وهذا يتجاوز الحد الآمن المعتمد بنكيًا (40%)، مما يعني هامش سداد ضيق جدًا",
+      "recommended_action": "تقليل الالتزامات الشهرية أو زيادة مصادر الدخل",
+      "expected_impact": "تحسّن الوضع: انخفضت درجة المخاطر بمقدار 1.5 نقطة",
+      "new_risk_level": "مرتفع"
+    },
+    {
+      "weak_point": "الرصيد الحالي",
+      "current_value": "-1519.57 ريال",
+      "why_it_matters": "الحساب في وضع سالب (على المكشوف)، وهذا مؤشر خطر مباشر على إدارة السيولة",
+      "recommended_action": "بناء رصيد احتياطي وتجنب السحب على المكشوف",
+      "expected_impact": "تحسّن الوضع: انخفضت درجة المخاطر بمقدار 4.0 نقطة",
+      "new_risk_level": "مرتفع"
+    }
+  ]
+}

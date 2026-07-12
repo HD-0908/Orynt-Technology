@@ -1,0 +1,71 @@
+{
+  "customer_name": "محمد القحطاني",
+  "scenarios": [
+    {
+      "scenario_name": "زيادة الدخل الشهري بمقدار 2000 ريال",
+      "applied_changes": {
+        "income_change": 2000,
+        "obligations_change": 0,
+        "balance_change": 0
+      },
+      "before": {
+        "risk_score": 63.6,
+        "risk_level": "مرتفع",
+        "debt_to_income_ratio": 88.96,
+        "recommended_product": "قرض حسن (بمبلغ محدود)"
+      },
+      "after": {
+        "risk_score": 56.5,
+        "risk_level": "متوسط",
+        "debt_to_income_ratio": 71.87,
+        "recommended_product": "مرابحة"
+      },
+      "impact_summary": "تحسّن الوضع: انخفضت درجة المخاطر بمقدار 7.1 نقطة",
+      "score_difference": -7.1
+    },
+    {
+      "scenario_name": "تقليل الالتزامات الشهرية بمقدار 1000 ريال",
+      "applied_changes": {
+        "income_change": 0,
+        "obligations_change": -1000,
+        "balance_change": 0
+      },
+      "before": {
+        "risk_score": 63.6,
+        "risk_level": "مرتفع",
+        "debt_to_income_ratio": 88.96,
+        "recommended_product": "قرض حسن (بمبلغ محدود)"
+      },
+      "after": {
+        "risk_score": 58.7,
+        "risk_level": "متوسط",
+        "debt_to_income_ratio": 77.07,
+        "recommended_product": "مرابحة"
+      },
+      "impact_summary": "تحسّن الوضع: انخفضت درجة المخاطر بمقدار 4.9 نقطة",
+      "score_difference": -4.9
+    },
+    {
+      "scenario_name": "سيناريو شامل: زيادة دخل + تقليل التزامات + تحسين رصيد",
+      "applied_changes": {
+        "income_change": 1500,
+        "obligations_change": -800,
+        "balance_change": 3000
+      },
+      "before": {
+        "risk_score": 63.6,
+        "risk_level": "مرتفع",
+        "debt_to_income_ratio": 88.96,
+        "recommended_product": "قرض حسن (بمبلغ محدود)"
+      },
+      "after": {
+        "risk_score": 50.7,
+        "risk_level": "متوسط",
+        "debt_to_income_ratio": 67.43,
+        "recommended_product": "مرابحة"
+      },
+      "impact_summary": "تحسّن الوضع: انخفضت درجة المخاطر بمقدار 12.9 نقطة",
+      "score_difference": -12.9
+    }
+  ]
+}

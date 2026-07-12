@@ -1,0 +1,27 @@
+{
+  "customer_name": "محمد القحطاني",
+  "current_risk_score": 63.6,
+  "default_prediction": {
+    "default_probability_pct": 74.8,
+    "category": "احتمالية تعثر مرتفعة",
+    "color_code": "أحمر"
+  },
+  "improvement_suggestions": [
+    {
+      "weak_point": "نسبة الالتزامات إلى الدخل",
+      "current_value": "88.96%",
+      "why_it_matters": "الالتزامات الشهرية تلتهم 88.96% من الدخل، وهذا يتجاوز الحد الآمن المعتمد بنكيًا (40%)، مما يعني هامش سداد ضيق جدًا",
+      "recommended_action": "تقليل الالتزامات الشهرية أو زيادة مصادر الدخل",
+      "expected_impact": "تحسّن الوضع: انخفضت درجة المخاطر بمقدار 4.9 نقطة",
+      "new_risk_level": "متوسط"
+    },
+    {
+      "weak_point": "معدل الادخار",
+      "current_value": "-4.66%",
+      "why_it_matters": "العميل ينفق أكثر مما يدخل شهريًا، وهذا نمط غير مستدام ماليًا",
+      "recommended_action": "تخصيص نسبة ثابتة من الدخل للادخار الشهري",
+      "expected_impact": "تحسّن الوضع: انخفضت درجة المخاطر بمقدار 2.7 نقطة",
+      "new_risk_level": "مرتفع"
+    }
+  ]
+}

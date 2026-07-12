@@ -1,0 +1,64 @@
+{
+  "customer_name": "سارة العتيبي",
+  "analysis_date": "2026-07-10 19:39:22",
+  "financial_ratios": {
+    "avg_monthly_income": 14000.0,
+    "avg_monthly_obligations": 4951.93,
+    "debt_to_income_ratio": 35.37,
+    "savings_rate": 38.65,
+    "current_balance": 46362.46,
+    "cash_withdrawal_frequency_per_month": 1.33,
+    "bank_fees_count": 0,
+    "income_variance_pct": 0.0
+  },
+  "risk_assessment": {
+    "risk_score": 9.4,
+    "risk_level": "منخفض",
+    "reasons": [
+      {
+        "factor": "نسبة الالتزامات إلى الدخل",
+        "value": "35.37%",
+        "impact": "مقبول",
+        "points": 8.4,
+        "explanation": "نسبة الالتزامات 35.37% ضمن النطاق المقبول، تعكس التزامات معتدلة"
+      },
+      {
+        "factor": "الرصيد الحالي",
+        "value": "46362.46 ريال",
+        "impact": "إيجابي",
+        "points": 0,
+        "explanation": "الرصيد الحالي يعكس وضعًا ماليًا مستقرًا وهامش أمان جيد"
+      },
+      {
+        "factor": "معدل الادخار",
+        "value": "38.65%",
+        "impact": "إيجابي",
+        "points": 0,
+        "explanation": "معدل ادخار صحي يعكس انضباطًا ماليًا جيدًا"
+      },
+      {
+        "factor": "تكرار السحب النقدي",
+        "value": "1.33 مرة/شهريًا",
+        "impact": "طبيعي",
+        "points": 1.0,
+        "explanation": "نمط سحب نقدي طبيعي ولا يثير قلقًا"
+      },
+      {
+        "factor": "الرسوم البنكية المتكررة",
+        "value": "0 رسوم خلال الفترة",
+        "impact": "طبيعي",
+        "points": 0,
+        "explanation": "لا توجد رسوم بنكية ملحوظة، مؤشر إيجابي على الانضباط"
+      }
+    ]
+  },
+  "financing_recommendation": {
+    "recommended_product": "إجارة منتهية بالتمليك",
+    "confidence": "عالية",
+    "max_suggested_amount_multiplier": 4,
+    "reasoning": "الوضع المالي للعميل مستقر جدًا (درجة مخاطر منخفضة 9.4/100)، مع دخل منتظم ونسبة التزامات صحية. هذا يؤهله لتمويل طويل الأجل مثل الإجارة المنتهية بالتمليك لتملك أصل (سيارة أو عقار) بمخاطر منخفضة على البنك.",
+    "alternative_products": [
+      "مرابحة"
+    ]
+  }
+}

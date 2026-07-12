@@ -1,0 +1,25 @@
+{
+  "customer_name": "سارة العتيبي",
+  "current_risk_score": 9.4,
+  "default_prediction": {
+    "default_probability_pct": 3.7,
+    "category": "احتمالية تعثر منخفضة",
+    "color_code": "أخضر"
+  },
+  "improvement_suggestions": [
+    {
+      "weak_point": "نسبة الالتزامات إلى الدخل",
+      "current_value": "35.37%",
+      "why_it_matters": "نسبة الالتزامات 35.37% ضمن النطاق المقبول، تعكس التزامات معتدلة",
+      "recommended_action": "تقليل الالتزامات الشهرية أو زيادة مصادر الدخل",
+      "expected_impact": "تحسّن الوضع: انخفضت درجة المخاطر بمقدار 3.0 نقطة",
+      "new_risk_level": "منخفض"
+    },
+    {
+      "weak_point": "تكرار السحب النقدي",
+      "current_value": "1.33 مرة/شهريًا",
+      "why_it_matters": "نمط سحب نقدي طبيعي ولا يثير قلقًا",
+      "recommended_action": "الاعتماد على المدفوعات الإلكترونية بدل السحب النقدي المتكرر"
+    }
+  ]
+}
